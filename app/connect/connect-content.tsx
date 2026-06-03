@@ -49,7 +49,7 @@ export function ConnectContent() {
           >
             Have questions or want to get in touch? We&apos;d love to hear from
             you! Whether you&apos;re exploring faith, looking for a community,
-            or need prayer — reach out.
+            or need prayer, reach out.
           </motion.p>
         </div>
       </section>

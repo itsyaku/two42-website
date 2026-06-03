@@ -2,7 +2,7 @@
 
 import { AnimateOnScroll } from "@/components/shared/animate-on-scroll";
 import { SectionHeading } from "@/components/shared/section-heading";
-import { Music, Users, Heart, BookOpen } from "lucide-react";
+import { Music, Users, Smile, Baby } from "lucide-react";
 
 const ministries = [
   {
@@ -13,21 +13,21 @@ const ministries = [
   },
   {
     icon: Users,
-    title: "Small Groups",
+    title: "Life Groups",
     description:
-      "Grow deeper in community and faith through our small groups that meet throughout the week.",
+      "Doing life together, meeting during the week to discuss, eat, socialise, and grow in faith as a family.",
   },
   {
-    icon: Heart,
-    title: "Outreach",
+    icon: Smile,
+    title: "Young Adults",
     description:
-      "We serve our community in Mauritius through practical acts of love and compassion.",
+      "A vibrant community for young adults to connect, grow, and navigate life and faith together.",
   },
   {
-    icon: BookOpen,
-    title: "Discipleship",
+    icon: Baby,
+    title: "Kids Church",
     description:
-      "Biblical teaching and mentoring to help every believer grow in their walk with Christ.",
+      "A fun, safe, and engaging environment where children learn about God's love through age-appropriate teaching.",
   },
 ];
 

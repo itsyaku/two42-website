@@ -23,7 +23,7 @@ const bankDetails = [
 const faqs = [
   {
     q: "Why should I give?",
-    a: "We believe in giving in church because it is a way to honor God with our resources. God so generously gave to us, sending his Son so we can be saved — how can we not live a life of generosity in return?",
+    a: "We believe in giving in church because it is a way to honor God with our resources. God so generously gave to us, sending his Son so we can be saved, how can we not live a life of generosity in return?",
   },
   {
     q: "Is tithing still relevant today?",

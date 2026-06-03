@@ -8,7 +8,7 @@ import { Leadership } from "./leadership";
 export const metadata: Metadata = {
   title: "Who We Are",
   description:
-    "Learn about Two42 Christian Church — our vision, mission, beliefs, and leadership. A community in Mauritius built on Acts 2:42-47.",
+    "Learn about Two42 Christian Church. Our vision, mission, beliefs, and leadership. A community in Mauritius built on Acts 2:42-47.",
 };
 
 export default function AboutPage() {

@@ -13,12 +13,12 @@ const beliefs = [
   {
     title: "The Bible",
     content:
-      "We believe the Bible is the inspired, infallible Word of God — the supreme authority in all matters of faith and conduct.",
+      "We believe the Bible is the inspired, infallible Word of God, the supreme authority in all matters of faith and conduct.",
   },
   {
     title: "God",
     content:
-      "We believe in one eternal God who exists as three distinct persons: Father, Son, and Holy Spirit — Creator and Sustainer of all things.",
+      "We believe in one eternal God who exists as three distinct persons: Father, Son, and Holy Spirit. Creator and Sustainer of all things.",
   },
   {
     title: "Jesus Christ",
@@ -43,7 +43,7 @@ const beliefs = [
   {
     title: "Baptism",
     content:
-      "We believe in water baptism by immersion as an outward expression of an inward reality — a public declaration of faith in Jesus Christ.",
+      "We believe in water baptism by immersion as an outward expression of an inward reality, a public declaration of faith in Jesus Christ.",
   },
 ];
 

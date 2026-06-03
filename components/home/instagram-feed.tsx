@@ -42,7 +42,7 @@ function InstagramHeader() {
           @two42_org
         </span>
         <span className="text-charcoal-light text-sm">
-          — Follow us on Instagram
+          | Follow us on Instagram
         </span>
       </a>
     </AnimateOnScroll>

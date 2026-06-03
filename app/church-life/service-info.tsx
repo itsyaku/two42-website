@@ -7,7 +7,7 @@ const details = [
   {
     icon: Clock,
     title: "Service Times",
-    text: "Sunday mornings at 10:00 AM. Prayer meeting at 9:30 AM — all are welcome.",
+    text: "Sunday mornings at 10:00 AM. Prayer meeting at 9:30 AM. All are welcome.",
   },
   {
     icon: Heart,

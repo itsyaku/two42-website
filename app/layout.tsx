@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title: "Two42 Christian Church",
-    description: "Loving strangers into family — Sundays @ 10 AM",
+    description: "Loving strangers into family. Sundays @ 10 AM",
     url: "https://two42.org",
     siteName: "Two42 Christian Church",
     locale: "en_US",
